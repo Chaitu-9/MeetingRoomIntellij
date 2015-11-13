@@ -4,3 +4,7 @@
 *.iml
 /out/
 .idea_modules/
+*.jar
+*.war
+*.ear
+*.class
