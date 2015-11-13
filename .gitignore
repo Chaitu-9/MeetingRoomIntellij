@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+.xml
+*.iml
+/out/
+.idea_modules/
